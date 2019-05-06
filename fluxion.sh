@@ -142,7 +142,7 @@ function top(){
         conditional_clear
         echo -e "$red[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]"
         echo -e "$red[                                                      ]"
-  echo -e "$red[  $red    FLUXION $version" "${yellow} ${red}  < F""${yellow}luxion" "${red}I""${yellow}s" "${red}T""${yellow}he ""${red}F""${yellow}uture >     "              ${blue}"    ]"
+  echo -e "$red[  $red    GorWifi $version" "${yellow} ${red}  < Gor""${yellow}WiFi" "${red}Wi""${yellow}Fi" "${red}Hack""${yellow}ing""${red}TCXS""${yellow}Project>     "              ${blue}"    ]"
         echo -e "$blue[                                                      ]"
         echo -e "$blue[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]""$transparent"
         echo
@@ -392,6 +392,19 @@ if [ $FLUX_DEBUG != 1 ]; then
            sleep 0.01 && echo -e "         ║▒      │▒║__   │▒└_┘▒    /▒/\▒\    │☢╫   │▒└╧┘▒   ║█ \▒█║    "
            sleep 0.01 && echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘   └▓/  \▓┘   ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
            sleep 0.01 && echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯    ¯¯¯ ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯  "
+		   
+		   echo -e $okegreen"     "
+echo -e $okegreen"                                                                                                "
+echo -e $okegreen" ██████╗  ██████╗ ██████╗ ██████╗  ██████╗     ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  "
+echo -e $okegreen"██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗ "
+echo -e $okegreen"██║  ███╗██║   ██║██████╔╝██████╔╝██║   ██║    ███████║███████║██║     █████╔╝ █████╗  ██████╔╝ "
+echo -e $okegreen"██║   ██║██║   ██║██╔══██╗██╔═══╝ ██║   ██║    ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗ "
+echo -e $okegreen"╚██████╔╝╚██████╔╝██║  ██║██║     ╚██████╔╝    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║ "
+echo -e $okegreen" ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝      ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ "
+echo -e $okegreen"           ╔╦╗╔═╗═╗ ╦╔═╗  ╔═╗╦═╗╔═╗ ╦╔═╗╔═╗╔╦╗  ╦ ╦╔═╗╔═╗╦╔═╔═╗╦═╗  ╔╦╗╔═╗╔═╗╔╦╗                "
+echo -e $okegreen"            ║ ║  ╔╩╦╝╚═╗  ╠═╝╠╦╝║ ║ ║║╣ ║   ║   ╠═╣╠═╣║  ╠╩╗║╣ ╠╦╝   ║ ║╣ ╠═╣║║║                "
+echo -e $okegreen"            ╩ ╚═╝╩ ╚═╚═╝  ╩  ╩╚═╚═╝╚╝╚═╝╚═╝ ╩   ╩ ╩╩ ╩╚═╝╩ ╩╚═╝╩╚═   ╩ ╚═╝╩ ╩╩ ╩                "
+echo -e $okegreen"$white"[$okegreen--$white]$cyan"$white"" Hacker-Dev-Seo-Codder-Programmer/t.me:@GorpoOrko/github:gorpo/site:tcxs.com.br/gorpo $white[$okegreen--$white]"
 
         echo""
 
